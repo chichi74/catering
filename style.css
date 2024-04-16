@@ -1,0 +1,185 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+.cater header {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background-color:#f4f4f4;
+}
+
+.cater header p{
+    float: left;
+    font-size: 16px;
+    padding: 13px 10px;
+    font-weight: 500;
+    margin-right: 60px;
+    letter-spacing: 3px;
+ }
+
+.cater header p a{
+    text-decoration: none;
+    color: black;
+    padding: 8px 16px;
+}
+    
+.cater header p a:hover{
+    background-color: gray;
+}
+
+.cater header nav ul{
+    list-style-type: none;
+    margin-left: 73%;
+}
+
+.cater header nav ul li{
+    display: inline-block;
+    padding: 16px 0px;
+}
+
+.cater header nav ul li a{
+    text-decoration: none;
+    padding: 10px 16px;
+    font-size: 16px;
+    color: black;
+    letter-spacing: 3px;
+}
+
+.cater header nav ul li a:hover{
+    background-color: gray;
+}
+
+.cater img{
+    width: 1113px;
+    height: 500px;
+}
+
+.cater .le p{
+    position: absolute;
+    bottom: 20px;
+    left: 40px;
+    font-size: 40px;
+    color: gray;
+    letter-spacing: 3px;
+}
+
+.cater .pics2 img{
+    width: 500px;
+    height: 600px;
+    float: left;
+    padding: 40px 40px;
+}
+
+.cater .test .about {
+    font-size: 40px;
+    padding: 40px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.cater .test .trad{
+    font-size: 20px;
+    padding: 5px;
+    text-align: center;
+    letter-spacing: 3px;
+}
+
+.cater .test .found{
+    font-size: 17px;
+    line-height: 30px;
+}
+
+.cater .test .fun{
+    font-size: 18px;
+    line-height: 28px; 
+    color: gray;
+}
+
+.menu .men{
+    font-size: 40px;
+    letter-spacing: 2px;
+    padding: 40px 160px;
+    padding-top: 300px;
+}
+
+.menu .bread{
+    font-size: 20px;
+    letter-spacing: 3px;
+    padding: 20px;
+}
+
+.menu .fresh{
+    padding: 20px;
+    float: left;
+    color: gray;
+}
+
+.cater .img2 img{
+    width: 500px;
+    height: 800px;
+    float: right;
+    margin-bottom: 100px;
+    padding: 120px 50px;
+}
+
+.cater .menu{
+    padding-left: 20px ;
+}
+
+.cater .we{
+    padding:20px;
+    float: left;
+    margin-top: -130px;
+}
+
+.cater .we h3{
+    color: rgb(33, 73, 89);
+}
+
+.cater .name button{
+    margin-bottom: 15px;
+    width: 1050px;
+    height: 30px;
+    font-size: 15px;
+    text-indent: 10px;
+    margin-left: 30px;  
+}
+
+.cater .name input{
+    border-width: 0 0 1px 0;
+    width: 1050px;
+    height: 50px;
+    font-size: 15px;
+    text-indent: 10px;
+    margin-left: 30px;
+}
+
+.cater .name input:focus{
+    border-width: 1px 1px 1px 1px;
+}
+    
+
+.cater .but button{
+    padding: 12px 16px; 
+    margin: 30px;
+}
+
+.cater .but a:hover{
+    background-color: grey;
+    color: gray;
+}
+
+.cater .w3{
+    padding: 30px;
+    width: 1050px;
+    height: 40px;
+    background-color: rgb(244, 242, 242);
+    text-align: center;
+}
+
+.cater .w3 a:hover{
+    color: green;
+}
